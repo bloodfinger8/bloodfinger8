@@ -3,7 +3,7 @@
 <!--
 **bloodfinger8/bloodfinger8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif
 
 Here are some ideas to get you started:
 
