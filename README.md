@@ -5,12 +5,14 @@
 - ⚡ &nbsp; Java Junior Backand Developer
 
 <h3> Tech Stack</h3>
-- 💻 &nbsp; language :  Java(Spring)
-- 🌐 &nbsp; Web : HTML | CSS | JavaScript | Bootstrap | vue.js |
-- 📫 &nbsp; DB Access : JPA , Mybatis
+
+- 💻 &nbsp; language :  Java (Spring)
+- 🌐 &nbsp; Web : HTML | CSS | JavaScript | JSP | Thymeleaf |Bootstrap | vue.js | 
+- 📫 &nbsp; DB Access : JPA | Mybatis
 - 🛢 &nbsp; DB : MySQL | Oracle
 
-<h3>interest</h3>
+<h3>Interest</h3>
+
 - 🌱 &nbsp; infra : docker , AWS , cubernatis 
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
