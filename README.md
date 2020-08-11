@@ -2,14 +2,16 @@
 
 <h3>  About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- ⚡ &nbsp; Java Junior Backand Developer
 
 <h3> Tech Stack</h3>
+- 💻 &nbsp; language :  Java(Spring)
+- 🌐 &nbsp; Web : HTML | CSS | JavaScript | Bootstrap | vue.js |
+- 📫 &nbsp; DB Access : JPA , Mybatis
+- 🛢 &nbsp; DB : MySQL | Oracle
 
-- 💻  Java
-- 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | MongoDB
-
+<h3>interest</h3>
+- 🌱 &nbsp; infra : docker , AWS , cubernatis 
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
