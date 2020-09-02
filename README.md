@@ -13,7 +13,7 @@
 
 <h3>Interest</h3>
 
-- 🌱 &nbsp; infra : docker , AWS , cubernatis 
+- 🌱 &nbsp; infra : Jenkins , docker , AWS , cubernatis 
 
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
