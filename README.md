@@ -7,14 +7,13 @@
 <h3> Tech Stack</h3>
 
 - 💻 &nbsp; language :  Java (Spring)
-- 🌐 &nbsp; Web : HTML | CSS | JavaScript | JSP | Thymeleaf |Bootstrap | vue.js | 
 - 📫 &nbsp; DB Access : JPA | Mybatis
 - 🛢 &nbsp; DB : MySQL | Oracle
 
 <h3>Interest</h3>
 
 - 🌱 &nbsp; infra : Jenkins |  docker |  AWS |  cubernatis 
-
+- ⚡ &nbsp; architecture : DDD
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 
