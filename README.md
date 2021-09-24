@@ -1,19 +1,20 @@
 ### 👋
 
-<h3>  About Me </h3>
+<h3> 소개 </h3>
 
-- ⚡ &nbsp; Java Junior Backand Developer
+- 🌱 &nbsp; Java Junior Backand Developer
 
-<h3> Tech Stack</h3>
+<h3> 현업 사용 기술</h3>
 
-- 💻 &nbsp; language :  Java (Spring)
-- 📫 &nbsp; DB Access : JPA | Mybatis
-- 🛢 &nbsp; DB : MySQL | Oracle
+- 🔑 &nbsp; language :  Java (Spring)
+- 🔑 &nbsp; DB Access : JPA , Mybatis
+- 🔑 &nbsp; DB : MySQL , Oracle
+- 🔑 &nbsp; infra : AWS(ec2,ecs,eb,s3 ...) , docker , Jenkins
+- 🔑 &nbsp; search Engine : elastic Search
 
-<h3>Interest</h3>
+<h3>관심</h3>
 
-- 🌱 &nbsp; infra : Jenkins |  docker |  AWS |  cubernatis 
-- ⚡ &nbsp; architecture : DDD
+- 🤔 &nbsp;  OOP를 지향하며 DDD스럽게 개발하려고 노력합니다.
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 
