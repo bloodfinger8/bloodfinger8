@@ -2,19 +2,21 @@
 
 <h3> 소개 </h3>
 
-- 🌱 &nbsp; Java Junior Backand Developer
+- 🌱 &nbsp; Java Backand Developer
 
 <h3> 현업 사용 기술</h3>
 
-- 🔑 &nbsp; language :  Java (Spring)
+- 🔑 &nbsp; language :  Java , Kotlin (Spring)
 - 🔑 &nbsp; DB Access : JPA , Mybatis
-- 🔑 &nbsp; DB : MySQL , Oracle
-- 🔑 &nbsp; infra : AWS(ec2,ecs,eb,s3 ...) , docker , Jenkins
+- 🔑 &nbsp; DB : MySQL , Oracle ...
+- 🔑 &nbsp; infra : AWS(ecs,ec2,eb,s3 ...) , docker , Jenkins
 - 🔑 &nbsp; search Engine : elastic Search
 
 <h3>관심</h3>
 
 - 🤔 &nbsp;  OOP를 지향하며 DDD스럽게 개발하려고 노력합니다.
+
+
 ![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
 
 
