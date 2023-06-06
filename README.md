@@ -2,22 +2,22 @@
 
 <h3> 소개 </h3>
 
-- 🌱 &nbsp; Java Backand Developer
+- 🌱 &nbsp; Backand Developer
 
 <h3> 현업 사용 기술</h3>
 
 - 🔑 &nbsp; language :  Java , Kotlin (Spring)
 - 🔑 &nbsp; DB Access : JPA , Mybatis
-- 🔑 &nbsp; DB : MySQL , Oracle ...
 - 🔑 &nbsp; infra : AWS(ecs,ec2,eb,s3 ...) , docker , Jenkins
-- 🔑 &nbsp; search Engine : elastic Search
+- 🔑 &nbsp; Message Broker : kaffka, RabbitMQ
+- 🔑 &nbsp; storge : elastic Search, MySQL , Oracle 
 
 <h3>관심</h3>
 
-- 🤔 &nbsp;  OOP를 지향하며 DDD스럽게 개발하려고 노력합니다.
+- 💬 &nbsp;  도메인 주도 설계에 관심이 있으며 , 누가봐도 이해하기 쉬운 코드를 작성하려 노력합니다.
 
 
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
+<!--![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif) -->
 
 
 <!--
